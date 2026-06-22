@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**lou1s19/lou1s19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Louis
+ 
+App & Automation Developer based in Berlin.
+ 
+I build native macOS and iOS apps, web tools, and automation systems — with a focus on clean UX and things that actually work.
+ 
+---
+ 
+## Projects
+ 
+**[Slide](https://github.com/lou1s19/Slide)** — macOS window manager built around trackpad gestures and smooth animations  
+**Zane** — macOS live wallpaper app bringing motion and atmosphere to the desktop  
+**Domain Parking Tool** — Frontend for managing and viewing parked domains in one place  
+**[QRPoint](https://github.com/lou1s19/qrpoint)** — Modern QR code generator  
+**[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — Contributor: Claude provider for Only Agent *(in progress)*
+ 
+---
+ 
+## Stack
+ 
+Swift · SwiftUI · AppKit · TypeScript · React · Next.js · WordPress · Elementor
+ 
+---
+ 
+[Portfolio](https://louisportfolio.netlify.app) · [Ko-fi](https://ko-fi.com/lou1s)
+ 
