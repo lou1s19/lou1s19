@@ -12,7 +12,6 @@ I build native macOS and iOS apps, web tools, and automation systems — with a 
 **Zane** — macOS live wallpaper app bringing motion and atmosphere to the desktop  
 **Domain Parking Tool** — Frontend for managing and viewing parked domains in one place  
 **[QRPoint](https://github.com/lou1s19/qrpoint)** — Modern QR code generator  
-**[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — Contributor: Claude provider for Only Agent *(in progress)*
  
 ---
  
