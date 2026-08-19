@@ -45,9 +45,11 @@ Client work, iOS apps, and a few tools in progress live in private repos. Ask me
 
 ## Stack
 
-**Native** Swift · SwiftUI · AppKit · Xcode
-**Web** TypeScript · React · Next.js · Tailwind
-**Mobile** React Native · Expo
-**Backend** Node.js · Supabase · PostgreSQL
-**CMS** WordPress · Elementor · PHP
-**Ops** Vercel · Netlify · Docker · GitHub Actions
+| | |
+|---|---|
+| **Native** | Swift · SwiftUI · AppKit · Xcode |
+| **Web** | TypeScript · React · Next.js · Tailwind |
+| **Mobile** | React Native · Expo |
+| **Backend** | Node.js · Supabase · PostgreSQL |
+| **CMS** | WordPress · Elementor · PHP |
+| **Ops** | Vercel · Netlify · Docker · GitHub Actions |
