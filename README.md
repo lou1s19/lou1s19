@@ -51,9 +51,3 @@ Client work, iOS apps, and a few tools in progress live in private repos. Ask me
 **Backend** Node.js · Supabase · PostgreSQL
 **CMS** WordPress · Elementor · PHP
 **Ops** Vercel · Netlify · Docker · GitHub Actions
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lou1s19&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
